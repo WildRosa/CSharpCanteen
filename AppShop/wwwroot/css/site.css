@@ -1,0 +1,17 @@
+﻿header, footer {
+    background-color: #343a40;
+}
+
+.nav-color {
+    color: rgba(255,255,255,0.5)
+}
+
+body {
+    
+}
+
+footer {
+    margin-top: 100px;
+    /*Минус Высота футера*/
+    
+}
